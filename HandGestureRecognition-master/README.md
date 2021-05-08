@@ -16,7 +16,3 @@ After running the code:
 
 The background is subtracted from the gesture image and the rest of the processing continues. The identification process only works on a single blob.
 
-
-Tips:
-======================
-If the contrast of the background image and the test image (with hand gesture) then the subtraction process is better. A clear light and contrasting background is usually helpful when testing this code.
